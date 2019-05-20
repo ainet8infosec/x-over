@@ -10,7 +10,7 @@
 Closed, Resolved
 
 ## Summary
-Customer XYZ data was not sent from AES EDI. Investigation revealed that 
+A large set of Customer XYZ data was not processed. Investigation revealed that 
 the file with the data was sent, but it did not get processed due to an issue with the AES CIS service (*Please refer to Jira Issue No. AESCIS-38263*).
 
 ## Impact
