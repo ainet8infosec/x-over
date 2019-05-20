@@ -11,7 +11,7 @@ Closed, Resolved
 
 ## Summary
 Customer XYZ data was not sent from AES EDI. Investigation revealed that 
-the file with the data was sent, but it did not get processed due to an issue with the AES CIS service (AESCIS-38263).
+the file with the data was sent, but it did not get processed due to an issue with the AES CIS service (*Please refer to Jira Issue No. AESCIS-38263*).
 
 ## Impact
 About 486,000 records were affected and the EDI to CIS monitoring service too.
