@@ -48,7 +48,7 @@ We have to add more monitoring plugins and modules to constantly monitor if the 
 | Time  | Description |
 | ----- | ----------- |
 | 11:56 | Discovering of the missing records |
-| 12:00 | Troublesahooting, Restarting of the AES CIS monitoring module |
+| 12:00 | Troubleshooting, Restarting of the AES CIS monitoring module |
 | 12:15 | Customer asked to resend file. Starting of the data processing of the records |
 | 13:00 | Completion of the data processing of all the 486,000 records |
 | 13:15 | Problem report created, relevant action items are created. Customer communication for follow-up actions. |
